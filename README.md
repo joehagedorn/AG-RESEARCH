@@ -1,8 +1,16 @@
-MOKUNET Food Systems Development
+## MOKUNET Food Systems Development
+# Table of Content
+==================================================
 
-Core Researh
+	Active Research Projects
+		- Food Systems Traceability 
+		- Regenerate Farming Methods
+		    - Invasive Species Observation
+		- Edge Machine Learning
+	Core Research
+        - Soil Adaptability as Carbon Sink
 
-Applied Research
-
-
-BIM Integration
+    Applied Research
+        - BIM Model Operations and Maintenance
+            - Public and Health Safety Protocol
+        -UnifiedPOS for Rural Food Hubs
