@@ -1,16 +1,13 @@
-## MOKUNET Food Systems Development
+## MOKUNET Farm End Point Architecture
 # Table of Content
 ==================================================
 
 	Active Research Projects
 		- Food Systems Traceability 
 		- Regenerate Farming Methods
-		    - Invasive Species Observation
+		- Invasive Species Observation
 		- Edge Machine Learning
-	Core Research
+	Outcomes
         - Soil Adaptability as Carbon Sink
-
-    Applied Research
-        - BIM Model Operations and Maintenance
-            - Public and Health Safety Protocol
-        -UnifiedPOS for Rural Food Hubs
+        - BIM Model Site Plan
+            - IoT Network Arhitecture
